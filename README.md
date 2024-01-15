@@ -1,5 +1,5 @@
 
-### <div align="center">Привет, меня зовут Максим и я фронтенд-разработчик 👨‍💻 🚀</div>  
+### <div>Привет, меня зовут Максим и я фронтенд-разработчик 👨‍💻 🚀</div>  
   
 
 - 🔭 Изучаю веб-разработку  
@@ -42,16 +42,13 @@
   <a href="https://t.me/Max_Logvinov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-<a href="https://github.com/MaxLogvinov" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
 <br/>  
 
 
-## Github Stats  
+## Статистика 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxLogvinov&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
