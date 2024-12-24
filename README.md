@@ -46,16 +46,28 @@
 
 ### Крупные работы
 
-- https://github.com/MaxLogvinov/movies-explorer-frontend
-- https://github.com/Sports-Guide
+- **[Movies Explorer Frontend](https://github.com/MaxLogvinov/movies-explorer-frontend)**  
+  Приложение для поиска фильмов.
+
+- **[Sports Guide](https://github.com/Sports-Guide)**  
+  Веб-приложение для поиска спортивных площадок.
 
 ### Тестовые задания
 
-- https://github.com/MaxLogvinov/ToDo-List
-- https://github.com/MaxLogvinov/farwater-test
-- https://github.com/MaxLogvinov/n-test
-- https://github.com/MaxLogvinov/brick-test
-- https://github.com/MaxLogvinov/flight-test-app
+- **[ToDo List](https://github.com/MaxLogvinov/ToDo-List)**  
+  Простое веб-приложение для управления списком задач.
+
+- **[Farwater Test](https://github.com/MaxLogvinov/farwater-test)**  
+  Семантическая и адаптивная верстка по макету.
+
+- **[N Test](https://github.com/MaxLogvinov/n-test)**  
+  Приложение для поиска репозиториев на Github.
+
+- **[Brick Test](https://github.com/MaxLogvinov/brick-test)**  
+  Приложение для поиска персонажей во вселенной "Рик и Морти".
+
+- **[Flight Test App](https://github.com/MaxLogvinov/flight-test-app)**  
+  Приложение для поиска авиарейсов.
 
 <br/>  
 
