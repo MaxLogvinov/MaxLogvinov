@@ -2,8 +2,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="animated yellow banner with JS functionality" width="900">
 </div>
 
-### <div>Привет, меня зовут Максим и я фронтенд-разработчик 👨‍💻 🚀</div>  
-  
+### <div align="center">Привет, меня зовут Максим и я фронтенд-разработчик 👨‍💻 🚀</div>  
+
+  <div align="center">
 
 - 🔭 Всегда изучаю новое и не боюсь экспериментировать
   
@@ -19,9 +20,13 @@
 
 <br/>  
 
+<div align="center">
 
-## Мой стек  
+  
+## Мой стек 
 
+
+</div>
 
 <div align="center">
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -42,13 +47,15 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 
 
+<br/>  
+
+
 ## Проекты
 
 ### Крупные работы
 
 - **[Movies Explorer Frontend](https://github.com/MaxLogvinov/movies-explorer-frontend)**  
   Приложение для поиска фильмов.
-
 - **[Sports Guide](https://github.com/Sports-Guide)**  
   Веб-приложение для поиска спортивных площадок.
 
@@ -56,16 +63,12 @@
 
 - **[ToDo List](https://github.com/MaxLogvinov/ToDo-List)**  
   Простое веб-приложение для управления списком задач.
-
 - **[Farwater Test](https://github.com/MaxLogvinov/farwater-test)**  
   Семантическая и адаптивная верстка по макету.
-
 - **[N Test](https://github.com/MaxLogvinov/n-test)**  
   Приложение для поиска репозиториев на Github.
-
 - **[Brick Test](https://github.com/MaxLogvinov/brick-test)**  
   Приложение для поиска персонажей во вселенной "Рик и Морти".
-
 - **[Flight Test App](https://github.com/MaxLogvinov/flight-test-app)**  
   Приложение для поиска авиарейсов.
 
