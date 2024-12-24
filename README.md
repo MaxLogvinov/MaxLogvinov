@@ -5,7 +5,7 @@
 ### <div>Привет, меня зовут Максим и я фронтенд-разработчик 👨‍💻 🚀</div>  
   
 
-- 🔭 Изучаю веб-разработку  
+- 🔭 Всегда изучаю новое и не боюсь экспериментировать
   
 
 - 🌱 Стремлюсь писать чистый и понятный код  
@@ -42,6 +42,20 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 
 
+## Проекты
+
+### Крупные работы
+
+- https://github.com/MaxLogvinov/movies-explorer-frontend
+- https://github.com/Sports-Guide
+
+### Тестовые задания
+
+- https://github.com/MaxLogvinov/ToDo-List
+- https://github.com/MaxLogvinov/farwater-test
+- https://github.com/MaxLogvinov/n-test
+- https://github.com/MaxLogvinov/brick-test
+- https://github.com/MaxLogvinov/flight-test-app
 
 <br/>  
 
