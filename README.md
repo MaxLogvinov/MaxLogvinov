@@ -61,10 +61,12 @@
 
 ### Тестовые задания
 
+- **[Infourok-test](https://github.com/MaxLogvinov/farwater-test)**  
+  Семантическая и адаптивная верстка по макету.
+- **[Farwater Test](https://github.com/MaxLogvinov/Infourok-test)**  
+  Семантическая и адаптивная верстка по макету.
 - **[ToDo List](https://github.com/MaxLogvinov/ToDo-List)**  
   Простое веб-приложение для управления списком задач.
-- **[Farwater Test](https://github.com/MaxLogvinov/farwater-test)**  
-  Семантическая и адаптивная верстка по макету.
 - **[N Test](https://github.com/MaxLogvinov/n-test)**  
   Приложение для поиска репозиториев на Github.
 - **[Brick Test](https://github.com/MaxLogvinov/brick-test)**  
