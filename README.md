@@ -59,11 +59,11 @@
 - **[Sports Guide](https://github.com/Sports-Guide)**  
   Веб-приложение для поиска спортивных площадок.
 
-### Тестовые задания
+### Тестовые задания 
 
-- **[Infourok-test](https://github.com/MaxLogvinov/farwater-test)**  
+- **[Infourok-test](https://github.com/MaxLogvinov/Infourok-test)**  
   Семантическая и адаптивная верстка по макету.
-- **[Farwater Test](https://github.com/MaxLogvinov/Infourok-test)**  
+- **[Farwater Test](https://github.com/MaxLogvinov/farwater-test)**  
   Семантическая и адаптивная верстка по макету.
 - **[ToDo List](https://github.com/MaxLogvinov/ToDo-List)**  
   Простое веб-приложение для управления списком задач.
