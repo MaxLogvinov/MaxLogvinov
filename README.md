@@ -69,7 +69,7 @@
   Простое веб-приложение для управления списком задач.
 - **[N Test](https://github.com/MaxLogvinov/n-test)**  
   Приложение для поиска репозиториев на Github.
-- **[Brick Test](https://github.com/MaxLogvinov/brick-test)**  
+- **[Brick Test](https://github.com/MaxLogvinov/brick-test-app)**  
   Приложение для поиска персонажей во вселенной "Рик и Морти".
 - **[Flight Test App](https://github.com/MaxLogvinov/flight-test-app)**  
   Приложение для поиска авиарейсов.
